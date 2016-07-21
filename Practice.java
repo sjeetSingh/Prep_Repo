@@ -3,7 +3,7 @@ SARABJEET PULAHA, 2016
 
 The following program searches for a number in a rotated array.
 
-Complexity is O(log n) n=> number of elements.
+Complexity is O(log n) n=> number of elements in the array.
 Data structures used is: Binary Search tree.
 */
 
